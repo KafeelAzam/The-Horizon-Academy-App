@@ -1,0 +1,17 @@
+{
+  "name": "horizon-academy-fees",
+  "version": "1.0.0",
+  "description": "The Horizon Academy — Fees Management System (Powered by ANASH). Node.js + Express + SQLite backend with a single-page frontend.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kafeel Azam",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
